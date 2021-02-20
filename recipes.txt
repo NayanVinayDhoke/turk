@@ -10,3 +10,5 @@ done changes
 
 
 done finaly
+
+changes after first merging..
